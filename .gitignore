@@ -1,0 +1,9 @@
+# 编译产物（exe 通过 GitHub Releases 发布）
+*.exe
+# go-winres 生成的资源文件（build.ps1 会根据 winres/winres.json 重新生成）
+*.syso
+# 编辑器 / 系统
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
