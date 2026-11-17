@@ -245,6 +245,8 @@ winres/            exe 图标、manifest、版本信息
 
 ## 许可与致谢
 
+ipsend 以 [MIT 许可证](LICENSE) 发布。内置的第三方组件各自沿用其许可证：
+
 - 界面：[Fyne](https://fyne.io)（BSD-3）
 - 字体：[Noto Sans SC](https://fonts.google.com/noto/specimen/Noto+Sans+SC)（SIL OFL 1.1，见 `assets/OFL.txt`）
 - 软件渲染：[Mesa 3D](https://www.mesa3d.org) llvmpipe，[mmozeiko/build-mesa](https://github.com/mmozeiko/build-mesa) 构建（MIT，见 `assets/mesa/LICENSE.txt`）
